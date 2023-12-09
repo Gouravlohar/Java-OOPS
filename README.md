@@ -1,3 +1,3 @@
 # Java-OOPS
 Java OOPS Concepts
-Simple Code for Easy Understanding
+Simple Codes for Easy Understanding
