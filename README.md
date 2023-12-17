@@ -7,3 +7,6 @@ Simple Codes for Easy Understanding
 4) Mehtod Overriding
 5) "Super" Keyword
 6) "this" Keyword
+7) Interface
+   i) Multiple Inheritance
+
