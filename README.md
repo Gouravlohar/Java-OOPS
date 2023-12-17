@@ -9,4 +9,5 @@ Simple Codes for Easy Understanding
 6) "this" Keyword
 7) Interface
    i) Multiple Inheritance
+8) Finalize( ) Method
 
