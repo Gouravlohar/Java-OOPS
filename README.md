@@ -7,7 +7,7 @@ Simple Codes for Easy Understanding
 4) Mehtod Overriding
 5) "Super" Keyword
 6) "this" Keyword
-7) Interface
-   i) Multiple Inheritance
+7) Interface <br>
+i) Multiple Inheritance
 8) Finalize( ) Method
 
